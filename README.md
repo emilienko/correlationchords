@@ -1,4 +1,4 @@
-![Portada](correlationchords/images/cover.jpeg)
+![Portada](images/cover.jpeg)
 
 <b>Description:</b>
 
