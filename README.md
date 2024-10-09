@@ -1,4 +1,4 @@
-<u>correlationchords: A Circular Chord Diagram of Correlations for Stata</u>
+<b>correlationchords: A Circular Chord Diagram of Correlations for Stata</b>
 
 <b>Description:</b>
 
