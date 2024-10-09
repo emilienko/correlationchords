@@ -1,8 +1,10 @@
-<s>correlationchords: A Circular Chord Diagram of Correlations for Stata</s>
+<u>correlationchords: A Circular Chord Diagram of Correlations for Stata</u>
 
-Description: correlationchords is a highly customizable circular chord graph that visualizes the significance level obtained when performing an independence test for all possible combinations of two of a list of variables.
+<b>Description:</b>
 
-Program Limitations:
+correlationchords is a highly customizable circular chord graph that visualizes the significance level obtained when performing an independence test for all possible combinations of two of a list of variables.
+
+<b>Program Limitations:</b>
 
 1. Due to the complexity of the syntax of the program, it is recomended to run it through its dialog box.
 
