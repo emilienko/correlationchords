@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/Cover.jpeg" alt="Portada" />
+  <img src="cover.jpeg" alt="Portada" />
 </p>
 
 <b>Description:</b>
